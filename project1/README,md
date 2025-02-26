@@ -1,1 +1,19 @@
 
+## A template for beginners. 
+A grpc based shared queue. Grpc server uses the host memory for maintaining a queue, and different grpc client can poll/exchange information from the queue.
+
+## Run grpc server.
+```
+bazel run //src:server
+```
+This would listen to port 50051 for incoming requests.
+
+Pictching ideas:
+* Trade-off between infra cost vs maintaince cost ( human resource cost)
+- An AI chatBot for the user:
+    * With recommendation system for online users
+- Secure data storage and managemnt ( usage of both on-premise and cloud resources)
+    * Access control of data storage and resources
+- AI-assisted product managment:
+    * Retail and inventory forecasting: Reduce waste, increase inventory turns, and improve in-stock availability by forecasting product demand at specific probability levels.
+    * Workforce planning: Forecast workforce staffing at 15-minute increments to optimize for high and low demand periods

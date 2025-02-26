@@ -4,7 +4,7 @@ Consulting Firm template
 Pictching ideas:
 - Trade-off between infra cost vs maintaince cost ( human resource cost)
 - An AI chatBot for the user:
-    * With recommendation system for online users. For example, with proper AI uses in backend, you have 24*7 chatbot helpline users in finding related products. Keep in mind about infra cost here. 
+    * With recommendation system for online users. For example, with proper AI uses in backend, you have 24*7 chatbot helpline users in finding related products. Keep in mind about infra cost here. If you want detailed control like GenAI provides, it will cost much more than a basic chatbot that only answers limited questions. By basic, I meant NLP based chatbot, check AWS Lex.
 - Secure data storage and managemnt ( usage of both on-premise and cloud resources)
     * Access control of data storage and resources. For example, you likely want to prevent unauthorized access to sales information. If any changes are needed, you should review and approve the request before implementation.
 - AI-assisted product managment (Enhanced business related statistics):

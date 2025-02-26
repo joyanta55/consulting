@@ -1,13 +1,4 @@
 
-## A template for beginners. 
-A grpc based shared queue. Grpc server uses the host memory for maintaining a queue, and different grpc client can poll/exchange information from the queue.
-
-## Run grpc server.
-```
-bazel run //src:server
-```
-This would listen to port 50051 for incoming requests.
-
 Pictching ideas:
 * Trade-off between infra cost vs maintaince cost ( human resource cost)
 - An AI chatBot for the user:

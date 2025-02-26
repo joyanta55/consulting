@@ -1,2 +1,12 @@
 # consulting
 Consulting Firm template
+
+Pictching ideas:
+- Trade-off between infra cost vs maintaince cost ( human resource cost)
+- An AI chatBot for the user:
+    * With recommendation system for online users
+- Secure data storage and managemnt ( usage of both on-premise and cloud resources)
+    * Access control of data storage and resources
+- AI-assisted product managment:
+    * Retail and inventory forecasting: Reduce waste, increase inventory turns, and improve in-stock availability by forecasting product demand at specific probability levels.
+    * Workforce planning: Forecast workforce staffing at 15-minute increments to optimize for high and low demand periods

@@ -6,7 +6,7 @@ Pictching ideas:
 - An AI chatBot for the user:
     * With recommendation system for online users. For example, with proper AI uses in backend, you have 24*7 chatbot helpline users in finding related products. Keep in mind about infra cost here. 
 - Secure data storage and managemnt ( usage of both on-premise and cloud resources)
-    * Access control of data storage and resources
+    * Access control of data storage and resources. For example, you likely want to prevent unauthorized access to sales information. If any changes are needed, you should review and approve the request before implementation.
 - AI-assisted product managment (Enhanced business related statistics):
     * Retail and inventory forecasting: Increase inventory turns, and improve in-stock availability by forecasting product demand at specific probability levels. For example, there is a 90% chance that a specific product will drop its appeal to the users in the coming month. This would be calculated based on many factors like chat descriptions, user comments, product sale pattern, any many other hidden patterns.
     * Workforce planning: Forecast workforce staffing at 15-minute increments to optimize for high and low demand periods.
